@@ -122,7 +122,7 @@ A config.yaml fájlban állítható:
 ## 4. Futtatás
 ```
 python feedai.py --rss_url https://www.telex.hu/rss --portal telex --model o4-mini
-python feedai.py --rss_url https://www.hrportal.hu/rss/ --portal hrportal --model "o4-mini
+python feedai.py --rss_url https://www.hrportal.hu/rss/ --portal hrportal --model o4-mini
 
 ```
 
